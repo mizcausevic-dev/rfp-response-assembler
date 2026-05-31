@@ -1,40 +1,22 @@
 # RFP Response Assembler
 
-Executive response-assembly surface for RFP coverage, differentiation, evidence reuse, and submission readiness across the Kinetic Gain executive-intelligence estate.
+Executive response-
 
-- Live: `https://rfp.kineticgain.com/`
-- Repo: `mizcausevic-dev/rfp-response-assembler`
+---
 
-## What it does
-- maps buyer-facing response packets to ownership, blockers, response themes, and next move
-- keeps coverage, evidence reuse, differentiation, and submission readiness in one lane
-- separates ready, needs-work, and blocked response rooms before the next procurement, legal, or executive review
-- exposes the same response posture through HTML, JSON APIs, screenshots, and a reproducible CLI
+## Sister tools in the Sales Enablement Stack
 
-## Routes
-- `/`
-- `/response-lane`
-- `/coverage-matrix`
-- `/submission-posture`
-- `/verification`
-- `/docs`
+This tool is one of four operator surfaces that compress the cycle time of vendor-diligence response. Use them together for a full buyer-facing readiness flow.
 
-## Local run
-```powershell
-cd rfp-response-assembler
-npm install
-npm run verify
-npm run prerender
-npm run render:assets
-```
+| Surface | What it does | Subdomain |
+|---|---|---|
+| **Vendor Proof Gap Monitor** | Claim coverage, evidence freshness, benchmark confidence, reuse safety | [proofgap.kineticgain.com](https://proofgap.kineticgain.com/) |
+| **Trust Center Evidence Room** | Evidence packaging, artifact freshness, review readiness, buyer-safe diligence posture | [trust.kineticgain.com](https://trust.kineticgain.com/) |
+| **Security Questionnaire Answer Studio** | Answer library, response ownership, cycle-time reduction, trust-evidence reuse | [questionnaire.kineticgain.com](https://questionnaire.kineticgain.com/) |
+| **RFP Response Assembler** | RFP coverage, differentiation, evidence reuse, submission readiness | [rfp.kineticgain.com](https://rfp.kineticgain.com/) |
 
-## CLI
-```powershell
-npx rfp-response-assembler fixtures/rfp-response-assembler.json --format summary
-npx rfp-response-assembler fixtures/rfp-response-assembler-clean.json --format json
-```
+All four are seller-side counterparts to the buyer-trust tooling at [kineticgain.com/trust/](https://kineticgain.com/trust/) (8 free browser-only AI diligence tools). Symmetric buyer/seller flow: customers use `/trust/` to draft their diligence asks; vendors use the Sales Enablement Stack to respond.
 
-## Verification
-- synthetic sample data only
-- no live customer RFP packets, procurement answers, or private deal artifacts
-- all routes and packets are generated from the sample export in this repo
+All four hardened to `v1.0-prod` on 2026-05-31. All four dogfooded with [8 real Kinetic Gain product families](https://github.com/mizcausevic-dev/vendor-proof-gap-monitor/blob/main/src/data/sampleVerticalBrief.ts) as the live demo dataset — what you see when you visit the live URLs is what Kinetic Gain itself uses internally.
+
+Part of the [Kinetic Gain portfolio](https://portfolio.kineticgain.com/) (13 named platforms · 60+ v1.0-prod operator surfaces).
