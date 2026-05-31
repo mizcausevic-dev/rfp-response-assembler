@@ -1,0 +1,257 @@
+{
+  "generatedAt": "2026-05-31T21:18:42.517Z",
+  "items": [
+    {
+      "id": "ai-governance-board-rfp",
+      "owner": "AI governance lead",
+      "buyer": "Enterprise AI governance committee",
+      "sector": "AI_PLATFORM",
+      "responseStage": "SUBMISSION_READY",
+      "responseState": "READY",
+      "responseTheme": "AI governance, agent controls, and procurement-safe policy answers",
+      "operatingQuestion": "Can we answer governance, access, evaluation, and auditability questions with one differentiated AI response pack?",
+      "currentPacket": "The scorecard, protocol suite, and bridge surfaces already form a reusable AI response backbone.",
+      "headlineGap": "Needs one final buyer-facing assembly that packages governance claims and proof links without custom rewriting.",
+      "coverageScore": 93,
+      "evidenceReuseScore": 91,
+      "differentiationScore": 88,
+      "submissionReadinessScore": 90,
+      "draftDays": 3,
+      "boardStory": "AI deals move faster when the RFP packet reads like a governed operating system rather than a custom answer spreadsheet.",
+      "nextMove": "Package scorecard, protocol, and bridge artifacts into one AI governance RFP pack.",
+      "companyTags": [
+        "IBM",
+        "Azure",
+        "OpenAI",
+        "MCP"
+      ],
+      "relatedSurfaces": [
+        "watsonx.kineticgain.com",
+        "suite.kineticgain.com",
+        "board.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Governance model",
+        "Agent controls",
+        "Auditability",
+        "Procurement readiness"
+      ]
+    },
+    {
+      "id": "identity-risk-admin-rfp",
+      "owner": "Identity risk lead",
+      "buyer": "Identity and security procurement lead",
+      "sector": "CLOUD_IDENTITY",
+      "responseStage": "SUBMISSION_READY",
+      "responseState": "READY",
+      "responseTheme": "Identity governance, endpoint controls, and remediation ownership",
+      "operatingQuestion": "Can we answer role drift, app protection, ownership, and remediation questions as one identity control narrative?",
+      "currentPacket": "The access, protection, and cross-risk surfaces already support a repeatable identity answer pack.",
+      "headlineGap": "Needs one cleaner buyer-facing packet that keeps remediation evidence and ownership together.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "Identity RFPs close faster when one response pack explains who owns the controls and how drift gets remediated.",
+      "nextMove": "Unify identity, endpoint, and remediation evidence into one reusable identity RFP response.",
+      "companyTags": [
+        "CyberArk",
+        "Okta",
+        "Entra",
+        "Intune"
+      ],
+      "relatedSurfaces": [
+        "access.kineticgain.com",
+        "protect.kineticgain.com",
+        "crossrisk.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Identity governance",
+        "Device protection",
+        "Ownership",
+        "Remediation flow"
+      ]
+    },
+    {
+      "id": "revenue-systems-rfp-pack",
+      "owner": "Revenue systems lead",
+      "buyer": "Revenue operations buyer",
+      "sector": "REVENUE_SYSTEMS",
+      "responseStage": "DRAFTING",
+      "responseState": "READY",
+      "responseTheme": "Reporting governance, experimentation, and attribution integrity",
+      "operatingQuestion": "Can we answer the buyer's reporting, experimentation, and attribution questions as one revenue operating system?",
+      "currentPacket": "The reporting and MarTech estate is credible, but the RFP proof is still scattered across too many separate surfaces.",
+      "headlineGap": "Needs one revenue response pack that packages reporting, attribution, and experiment proof coherently.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "Revenue RFPs become board-friendly when the response packet reads like one accountable system instead of a portfolio tour.",
+      "nextMove": "Turn the reporting, Power BI, Tableau, and MarTech proofs into one revenue RFP response pack.",
+      "companyTags": [
+        "Klaviyo",
+        "VWO",
+        "Power BI",
+        "Tableau"
+      ],
+      "relatedSurfaces": [
+        "revenue.kineticgain.com",
+        "martech.kineticgain.com",
+        "proof.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Reporting controls",
+        "Experiment governance",
+        "Attribution confidence",
+        "Executive reporting"
+      ]
+    },
+    {
+      "id": "fintech-controls-rfp-pack",
+      "owner": "FinTech controls lead",
+      "buyer": "FinTech procurement and risk lead",
+      "sector": "FINTECH",
+      "responseStage": "LEGAL_REVIEW",
+      "responseState": "READY",
+      "responseTheme": "Payments, merchant risk, treasury, and KYC controls",
+      "operatingQuestion": "Can we answer legal and risk reviewers with one packet for payments, reserves, KYB, KYC, and payout safety?",
+      "currentPacket": "The core surfaces are there, but the legal-safe packet still needs tighter packaging and sharper reuse.",
+      "headlineGap": "Needs stronger differentiation and less manual legal prep for FinTech buyers.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "FinTech trust capital is created when the RFP room feels pre-assembled, not lawyer-assembled every time.",
+      "nextMove": "Create one FinTech response room spanning payments, merchant, treasury, and KYC.",
+      "companyTags": [
+        "Stripe",
+        "KYC",
+        "Treasury",
+        "Merchant risk"
+      ],
+      "relatedSurfaces": [
+        "payments.kineticgain.com",
+        "merchant.kineticgain.com",
+        "kyc.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Payment controls",
+        "Merchant review",
+        "Treasury posture",
+        "KYC/KYB workflow"
+      ]
+    },
+    {
+      "id": "biotech-quality-rfp-pack",
+      "owner": "Quality systems lead",
+      "buyer": "Biotech vendor qualification lead",
+      "sector": "BIOTECH_DIAGNOSTICS",
+      "responseStage": "DRAFTING",
+      "responseState": "READY",
+      "responseTheme": "GxP quality, CAPA, specimen handling, and safety review",
+      "operatingQuestion": "Can we answer qualification reviewers with one conservative packet for deviations, custody, change control, and safety?",
+      "currentPacket": "The biotech stack is strong, but the response narrative still needs a more explicit qualification-safe assembly.",
+      "headlineGap": "Needs a qualification-ready response room that keeps posture, caveats, and proof links together.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "Regulated biotech buyers trust the system more when the response pack is coherent, conservative, and qualification-safe.",
+      "nextMove": "Package GxP, CAPA, specimen, narrative, and safety proofs into one quality RFP room.",
+      "companyTags": [
+        "GxP",
+        "CAPA",
+        "Specimen",
+        "Safety"
+      ],
+      "relatedSurfaces": [
+        "capa.kineticgain.com",
+        "specimen.kineticgain.com",
+        "safety.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Change control",
+        "CAPA process",
+        "Chain of custody",
+        "Safety review"
+      ]
+    },
+    {
+      "id": "public-sector-rfp-pack",
+      "owner": "Procurement strategy lead",
+      "buyer": "Public-sector procurement officer",
+      "sector": "GOVTECH_PUBLIC_SECTOR",
+      "responseStage": "DISCOVERY",
+      "responseState": "READY",
+      "responseTheme": "RFP, disclosure, procurement evidence, and public-sector suitability",
+      "operatingQuestion": "Can we provide a public-sector buyer with one explicit response room for disclosure, answer reuse, and procurement-safe proof?",
+      "currentPacket": "The ingredients exist, but the public-sector response pack is still blocked by missing ownership and missing packaging.",
+      "headlineGap": "Blocked by missing public-sector RFP room and explicit response ownership.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "Public-sector expansion is constrained by packaging discipline more than raw capability.",
+      "nextMove": "Build the first public-sector RFP room with disclosure, procurement, and answer-library artifacts.",
+      "companyTags": [
+        "GovTech",
+        "RFP",
+        "Procurement",
+        "Disclosure"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "board.kineticgain.com",
+        "claims.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Procurement posture",
+        "Disclosure pack",
+        "Security questionnaire",
+        "Ownership"
+      ]
+    },
+    {
+      "id": "healthcare-trust-rfp-pack",
+      "owner": "Clinical trust lead",
+      "buyer": "Healthcare procurement reviewer",
+      "sector": "HEALTHTECH",
+      "responseStage": "SUBMISSION_READY",
+      "responseState": "READY",
+      "responseTheme": "Clinical disclosure, diagnostics, and patient-risk posture",
+      "operatingQuestion": "Can we show healthcare reviewers a response room that is cautious, evidence-linked, and easy to audit?",
+      "currentPacket": "The healthcare and diagnostics estate already supports careful proof, and the packet is close to reusable now.",
+      "headlineGap": "Needs one healthcare response room that stays restrained and evidence-linked.",
+      "coverageScore": 90,
+      "evidenceReuseScore": 87,
+      "differentiationScore": 84,
+      "submissionReadinessScore": 86,
+      "draftDays": 4,
+      "boardStory": "Healthcare trust becomes easier to defend when one response room carries disclosure, diagnostics, and review posture together.",
+      "nextMove": "Ship a clinical response room tied to care, diagnostics, and disclosure surfaces.",
+      "companyTags": [
+        "Clinical AI",
+        "Disclosure",
+        "Safety",
+        "Patient risk"
+      ],
+      "relatedSurfaces": [
+        "care.kineticgain.com",
+        "diagnostics.kineticgain.com",
+        "board.kineticgain.com"
+      ],
+      "requiredQuestions": [
+        "Clinical disclosure",
+        "Diagnostic posture",
+        "Patient risk",
+        "Safety review"
+      ]
+    }
+  ]
+}
